@@ -1,7 +1,7 @@
+"fonction bomderer "
 import unittest
 
 from moyenne import moyenne_ponderee, mention
-
 
 class TestMoyenne(unittest.TestCase):
     def test_moyenne_simple(self):
