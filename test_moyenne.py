@@ -1,4 +1,5 @@
 "fonction bomderer "
+"""Ajouter calcul de moyenne"""
 import unittest
 
 from moyenne import moyenne_ponderee, mention
